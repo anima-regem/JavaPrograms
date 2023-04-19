@@ -22,3 +22,10 @@ public class StringMain {
         sc.close();
     }
 }
+
+/*
+Enter a string: 
+the quick brown fox jumps over the lazy dog
+Largest word: quick
+Smallest word: the
+ */

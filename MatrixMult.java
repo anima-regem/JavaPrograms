@@ -53,3 +53,27 @@ public class MatrixMult {
         sc.close();
     }
 }
+
+/*
+
+Enter the number of rows and columns of the first matrix: 
+2
+2
+Enter the number of rows and columns of the second matrix: 
+2
+2
+Enter the elements of the first matrix: 
+2
+2
+2
+2
+Enter the elements of the second matrix: 
+2
+2
+2
+2
+The product of the matrices is: 
+8 8 
+8 8
+
+ */

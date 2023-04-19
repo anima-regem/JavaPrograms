@@ -60,3 +60,49 @@ public class StackMain {
 
     }
 }
+
+/*
+
+Enter 1 to push, 2 to pop, 3 to exit
+1
+Enter the element to be pushed
+1
+Enter 1 to push, 2 to pop, 3 to exit
+1 
+Enter the element to be pushed
+2
+Enter 1 to push, 2 to pop, 3 to exit
+1
+Enter the element to be pushed
+3
+Enter 1 to push, 2 to pop, 3 to exit
+1
+Enter the element to be pushed
+4
+Enter 1 to push, 2 to pop, 3 to exit
+1
+Enter the element to be pushed
+5
+Enter 1 to push, 2 to pop, 3 to exit
+2
+Popped element is 5
+Enter 1 to push, 2 to pop, 3 to exit
+2
+Popped element is 4
+Enter 1 to push, 2 to pop, 3 to exit
+2
+Popped element is 3
+Enter 1 to push, 2 to pop, 3 to exit
+2
+Popped element is 2
+Enter 1 to push, 2 to pop, 3 to exit
+2
+Popped element is 1
+Enter 1 to push, 2 to pop, 3 to exit
+2
+Stack Underflow
+Popped element is -1
+Enter 1 to push, 2 to pop, 3 to exit
+3s
+
+ */

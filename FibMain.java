@@ -52,3 +52,19 @@ public class FibMain {
         sc.close();
     }
 }
+
+/*
+
+Enter 1 for recursive function and 2 for non-recursive function: 
+1
+Enter the nth value
+5
+5
+
+Enter 1 for recursive function and 2 for non-recursive function: 
+2
+Enter the nth value of the Fibonacci sequence: 
+6
+8
+
+ */

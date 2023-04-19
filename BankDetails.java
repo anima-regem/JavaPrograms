@@ -32,3 +32,20 @@ public class BankDetails {
 
     }
 }
+
+/*
+
+Enter Account No : 
+2342
+Enter Name : 
+Raj
+Enter Type : 
+FD
+Enter Balance : 
+3420
+Account No : 2342
+Name : Raj
+Type : FD
+Balance : 3420
+
+ */

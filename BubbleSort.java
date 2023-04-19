@@ -30,3 +30,11 @@ public class BubbleSort {
 
     }
 }
+
+/*
+Enter the size of the array
+9
+Enter the elements of the array
+1 6 2 5 6 8 23 7 23
+1 2 5 6 6 7 8 23 23 
+ */

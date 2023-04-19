@@ -35,3 +35,17 @@ public class Overloading2 {
         sc.close();
     }
 }
+
+/*
+
+Enter the integer value
+4
+Integer value is 4
+Enter the string value
+abcd  
+String value is abcd
+Enter the float value
+23.5
+Float value is 23.5
+
+ */

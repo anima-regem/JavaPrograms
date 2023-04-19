@@ -42,3 +42,16 @@ public class Overloading1 {
         sc.close();
     }
 }
+/*
+
+Enter the length, breadth and height of the cube
+3 4 5
+Volume of cube is 60.0
+Enter the radius and height of the cylinder
+2 6
+Volume of cylinder is 75.36
+Enter the side of the cube
+6
+Volume of cube is 216.0
+
+ */

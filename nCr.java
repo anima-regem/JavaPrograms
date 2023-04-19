@@ -21,3 +21,11 @@ public class nCr{
         sc.close();
     }
 }
+
+/*
+
+Enter the value of n and r
+15 7
+9
+
+*/

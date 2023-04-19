@@ -64,3 +64,33 @@ public class StudentMain {
 
     }
 }
+/*
+
+Enter the number of students
+2
+Enter the name of student 1
+Raj
+Enter the roll no of student 1
+23
+Enter the marks of student 1
+90
+90
+90
+Enter the name of student 2
+Sam
+Enter the roll no of student 2
+45
+Enter the marks of student 2
+99
+95
+92
+Name: Raj
+Roll no: 23
+Marks: 90.0,90.0,90.0
+Total: 270.0
+Name: Sam
+Roll no: 45
+Marks: 99.0,95.0,92.0
+Total: 286.0
+
+ */

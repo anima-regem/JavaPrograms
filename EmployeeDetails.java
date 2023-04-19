@@ -44,3 +44,39 @@ public class EmployeeDetails {
     }
     
 }
+
+/*
+
+Enter the number of employees
+2
+Enter the details of employee 1
+Enter the employee id
+1
+Enter the employee name
+Emp1
+Enter the employee age
+34
+Enter the employee department
+IT
+Enter the details of employee 2
+Enter the employee id
+2
+Enter the employee name
+Emp2
+Enter the employee age
+32
+Enter the employee department
+IT
+Employee 1 details
+Employee id : 1
+Employee name : Emp1
+Employee age : 34
+Employee department : IT
+Employee 2 details
+Employee id : 2
+Employee name : Emp2
+Employee age : 32
+Employee department : IT
+
+
+ */
