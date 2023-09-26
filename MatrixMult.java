@@ -1,5 +1,3 @@
-//  Java program for matrix multiplication.(Check the order of the matrices before multiplication, Only main function needed)
-
 import java.util.Scanner;
 
 public class MatrixMult {
@@ -55,25 +53,23 @@ public class MatrixMult {
 }
 
 /*
-
-Enter the number of rows and columns of the first matrix: 
+Enter the number of rows and columns of the first matrix:
 2
 2
-Enter the number of rows and columns of the second matrix: 
+Enter the number of rows and columns of the second matrix:
 2
 2
-Enter the elements of the first matrix: 
-2
-2
-2
-2
-Enter the elements of the second matrix: 
+Enter the elements of the first matrix:
 2
 2
 2
 2
-The product of the matrices is: 
-8 8 
+Enter the elements of the second matrix:
+2
+2
+2
+2
+The product of the matrices is:
 8 8
-
+8 8
  */
